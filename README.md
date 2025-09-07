@@ -11,6 +11,11 @@
 - Open AI Embeddings
 - LangChain
 
+## Demo
+https://github.com/user-attachments/assets/f42bb9ea-a9c2-4dbf-9697-31b4e79d22fc
+
+
+
 # Getting Started
 
 Install the dependencies and run the project
