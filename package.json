@@ -1,0 +1,16 @@
+{
+  "name": "Scrim-s05jfq1",
+  "description": "https://scrimba.com/learn-langchainjs-c02t/~08",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "langchain": "0.0.152",
+    "@supabase/supabase-js": "2.36.0",
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
